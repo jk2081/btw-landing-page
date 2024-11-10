@@ -4,7 +4,6 @@ import Image from "next/image";
 
 // UI component imports
 import { Section, Container } from "@/components/craft";
-import CallToAction from "./call-to-action";
 
 // Asset imports
 import Placeholder from "@/public/placeholder.webp";
